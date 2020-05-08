@@ -1,5 +1,5 @@
 # One Landing Page Portfolio 
-## You can visit my website [here](hhttps://rimaodolski.github.io/PortfolioReact/)
+## You can visit my website [here](https://sheltered-oasis-11418.herokuapp.com/)
 > Portfolio page built with HTML, Javascript, CSS and React. 
 
 > This page contains 3 sections: About, Portfolio, and Contact Me. 
