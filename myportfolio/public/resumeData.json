@@ -2,15 +2,11 @@
   "main": {
     "name":"Rima Odolski",
     "occupation":"Application Support Analyst",
-    "description":"I am a full stack Web Developer recently graduated from the coding bootcamp at The University of Texas at Austin. My love for web development stems from working for SaaS companies for the past five years. Having been the one onboarding and assisting users with their product inquiries, I now want to start the endeavour of being the product maker.",
+    "description":"I am a certified full stack Web Developer recently graduated from the coding bootcamp at The University of Texas at Austin. My love for web development stems from working for SaaS companies for the past five years. Having been the one onboarding and assisting users with their product inquiries, I now want to start the endeavour of being the one that builds applications.",
     "image":"profilepic.jpg",
     "bio":"Mom, Traveler, Technophile.",
     "contactmessage":"I would love to connect with you!",
     "email": "rima.odolski@gmail.com",
-    "address":{
-      "city":"Austin, TX"
-      
-    },
     "resumedownload":"rimaodolski.github.io",
     "social":[
       {
