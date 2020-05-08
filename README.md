@@ -1,3 +1,23 @@
+# One Landing Page Portfolio 
+## You can visit my website [here](hhttps://rimaodolski.github.io/PortfolioReact/)
+> Portfolio page built with HTML, Javascript, CSS and React. 
+
+> This page contains 3 sections: About, Portfolio, and Contact Me. 
+
+> Each session is accessible by clicking on the top right navigation menu options.
+
+
+![Portfolio Snippet](snippet1.png)
+![Portfolio Snippet](snippet2.png)
+![Portfolio Snippet](snippet3.png)
+![Portfolio Snippet](snippet4.png)
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
